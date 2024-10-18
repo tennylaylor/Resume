@@ -1,0 +1,64 @@
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #4334;
+            padding: 20px;
+            box-shadow: 10 5 20px rgba(94, 6, 182, 0.671);
+        }
+        header {
+            text-align: center;
+        }
+        img {
+            width: 150px;
+            border-radius: 50%;
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .skills, .experience, .education, .certifications, .portfolio {
+            padding-left: 10px;
+        }
+        form {
+            padding: 15px;
+            background-color: #e21111;
+            border: 1px solid #5f2929;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        input[type="text"], input[type="email"], textarea {
+            width: 75%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #310f5e;
+            border-radius: 5px;
+        }
+        
+        button {
+            background-color: #642e91;
+            color: rgba(177, 247, 14, 0.911);
+            padding: 10px 10px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+            footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+    <styles
